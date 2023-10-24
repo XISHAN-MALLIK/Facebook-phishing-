@@ -23,7 +23,7 @@
 
 ### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/Xishan/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -128,8 +128,8 @@ options:
  - Get IP Address and many other details along with login credentials
 
 #### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
+ - [CamHacker](https://github.com/Xishan/CamHacker) for image phishing
+ - [VidPhisher](https://github.com/Xishan/VidPhisher) for video phishing
 
 
 ### Requirements
@@ -163,7 +163,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/Xishan/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
@@ -209,7 +209,7 @@ If not found, php and python modoules will be installed on first run
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
 ## Credits:
-Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/jaykali/maskphish)
+Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali]([https:(https://github.com/XISHAN-MALLIk )
 
 
 ### [*] Support
@@ -218,13 +218,10 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github]([https://github.com/XISHAN-MALLIK)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Facebook](https://www.facebook.com/Its.XishAn.MalLik?mibextid=9R9pXO)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Messenger](https://m.me/Its.XishAn.MalLik)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
 
